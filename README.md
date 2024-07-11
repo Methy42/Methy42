@@ -6,6 +6,7 @@
 - ⛏ Interest: Typescript, GUI, Mobile, Rust
 
 ### Latest posts from 📝 [methy42.github.io/blog](https://methy42.github.io/blog/)
+- [Chromium多进程分离式架构](https://methy42.github.io/blog/chromium/Chromium%E5%A4%9A%E8%BF%9B%E7%A8%8B%E5%88%86%E7%A6%BB%E5%BC%8F%E6%9E%B6%E6%9E%84/Chromium%E5%A4%9A%E8%BF%9B%E7%A8%8B%E5%88%86%E7%A6%BB%E5%BC%8F%E6%9E%B6%E6%9E%84.html)
 - [记一次RK3568设备上的Electron启动时长分析](https://methy42.github.io/blog/2024-04-21/%E8%AE%B0%E4%B8%80%E6%AC%A1RK3568%E8%AE%BE%E5%A4%87%E4%B8%8A%E7%9A%84Electron%E5%90%AF%E5%8A%A8%E6%97%B6%E9%95%BF%E5%88%86%E6%9E%90/%E8%AE%B0%E4%B8%80%E6%AC%A1RK3568%E8%AE%BE%E5%A4%87%E4%B8%8A%E7%9A%84Electron%E5%90%AF%E5%8A%A8%E6%97%B6%E9%95%BF%E5%88%86%E6%9E%90.html) (2024-04-21)
 - [Chromium中的Blink](https://methy42.github.io/blog/chromium/Chromium%E4%B8%AD%E7%9A%84Blink/Chromium%E4%B8%AD%E7%9A%84Blink.html) (2024-04-21)
 <!--
